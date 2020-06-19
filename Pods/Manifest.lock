@@ -1,0 +1,36 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - HandyJSON (4.1.1)
+  - SVProgressHUD (2.2.5)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - GoogleMaps
+  - HandyJSON
+  - SVProgressHUD
+  - Toast
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - GoogleMaps
+    - HandyJSON
+    - SVProgressHUD
+    - Toast
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  HandyJSON: 3a3de917c4118767ffe41c29b5acba23409649f4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: 54f7a1e3cd78944b3008fa7a75b232a4d972a89e
+
+COCOAPODS: 1.5.3

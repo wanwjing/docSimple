@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocApp/Bean/SListOfDoctors.swift"
+            timestampString = "554223386.336097"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "SListOfDoctors"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocApp.SListOfDoctors.direction.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "DocApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwan/Desktop/DocApp/DocApp/Bean/SListOfDoctors.swift"
+                  timestampString = "554658994.517126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocApp.SListOfDoctors.direction.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "DocApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwan/Desktop/DocApp/DocApp/Bean/SListOfDoctors.swift"
+                  timestampString = "554658994.523234"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocApp.SListOfDoctors.init() -&gt; DocApp.SListOfDoctors"
+                  moduleName = "DocApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwan/Desktop/DocApp/DocApp/Bean/SListOfDoctors.swift"
+                  timestampString = "554658994.530807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1583">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
